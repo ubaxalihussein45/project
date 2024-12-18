@@ -1,0 +1,50 @@
+.container{
+    background-color: brown;
+    padding: 10px 0px;
+    display: flex;
+    /* justify-content: space-around;
+    flex-wrap: wrap; */
+    gap: 20px;
+     /* flex-flow: wrap column;  */
+    /* align-items: baseline; */
+
+  
+
+
+
+
+    /* justify-content: start; */
+     /* justify-content: end; */
+    /* justify-content: center; */
+     /* justify-content: space-around;  */
+    /* justify-content: space-evenly; */
+     /* justify-content: space-between;  */
+
+}
+
+.box1{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+}
+
+
+.box2{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+}
+
+
+.box3{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+}
+
+
+.box4{
+    background-color: yellow;
+    width: 120px;
+    min-height: 60px;
+}
